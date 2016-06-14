@@ -1,0 +1,3 @@
+# Cordova and Ionic
+
+Accessing native mobile capabilities: vibration, camera, Notification and Toast...
